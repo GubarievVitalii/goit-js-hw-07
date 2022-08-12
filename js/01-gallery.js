@@ -1,7 +1,6 @@
 import { galleryItems } from "./gallery-items.js";
 
 let instance;
-// Change code below this line
 
 const listGallery = document.querySelector(".gallery");
 
